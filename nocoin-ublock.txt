@@ -5,3 +5,9 @@ djs.sk,mladipodnikatelia.sk,tubettajat.net##script:inject(abort-on-property-read
 tasma.ru,vidzi.tv##script:inject(abort-on-property-write.js, decodeURIComponent)
 cloudtime.to,nowvideo.sx,sleeptimer.org,wholecloud.net##script:inject(abort-on-property-read.js, WebAssembly)
 123telugu.com,netiap.com,tomtop.com##script:inject(abort-on-property-read.js, _0x7bc7)
+
+
+No player works on a-o.ninja link:
+https://a-o.ninja/anime/pokemon-sun-moon-2017/79
+the miner / excavator filter blocks all player.
+I am asking for repair.
